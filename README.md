@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Merhaba, ben Egemen!
 
-<!--
-**SSoverine/SSoverine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ben 2010 doğumlu bir geliştiriciyim ve aktif olarak **24 Kasım Anadolu Lisesi**'nde eğitim görüyorum. Kodlamaya küçük yaşlarda blok tabanlı platformlarda başladım, 2020 yılında ise ilk defa Python ile metin tabanlı programlamaya geçiş yaptım.
 
-Here are some ideas to get you started:
+Çoğu yazılım dilinin temellerine hakimim; özellikle **C++** ve **Python** dillerini tercih ediyorum. Aynı zamanda **Arduino** ve **Raspberry Pi** üzerinde fiziksel projeler geliştiriyorum. Aktif olarak Arch Linux kullanıyorum.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Not:** 2025 ve öncesinde geliştirdiğim birçok projemi buluta kaydetmediğim için bu projeler burada yer almıyor. GitHub hesabımı ise aktif olarak 2025 yılında kullanmaya başladım ve bu yıl itibarıyla eski projelerimi profesyonel hale getirip yavaş yavaş eklemeye başladım.
+
+---
+
+## 🎓 Katıldığım Etkinlikler ve Eğitimler
+
+- 2025 – **Uluslararası Bilim ve Sanat Kongresi** katılımcısı  
+- 2025 – **10. Üsküdar Bilim ve Fikir Festivali** katılımcısı  
+- **Deneyap Teknoloji Atölyeleri** – Temel teknoloji eğitimi ve proje geliştirme süreci
+- **Bilim ve Sanat Merkezi** – Disiplinler arası eğitim, proje tabanlı gelişim ortamı
+
+---
+
+## 🛠️ Kullandığım ve Deneyim Sahibi Olduğum Teknolojiler
+
+- **Programlama Dilleri:**  
+  `C++`, `Python`, `Java`, `JavaScript`, `C#`, `HTML/CSS`
+
+- **Teknolojiler ve Kütüphaneler:**  
+  `YOLO`, `dlib`, `NumPy`, `pandas`, `matplotlib`, `SDL2`, `Unity`, `Discord.py`, `QT`, `Java Swing`, `Selenium`
+
+- **Platformlar ve Donanım:**  
+  `Arch Linux`, `Arduino`, `Raspberry Pi`, `Windows`
+
+- **Araçlar ve Sistemler:**  
+  `Makefile`, `VSCode`, `Raspberry Pi OS`, `Serial Communication`, `CLI tools`
+  
+---
+
+## 📫 Bana Ulaş
+
+📷 [Instagram](https://instagram.com/soverine.cpp)  
