@@ -1,6 +1,6 @@
 # 👋 Merhaba, ben Egemen!
 
-Ben 2010 doğumlu bir geliştiriciyim ve aktif olarak **24 Kasım Anadolu Lisesi**'nde eğitim görüyorum. Kodlamaya küçük yaşlarda blok tabanlı platformlarda başladım, 2020 yılında ise ilk defa Python ile metin tabanlı programlamaya geçiş yaptım.
+2010 doğumlu bir geliştiriciyim ve aktif olarak **24 Kasım Anadolu Lisesi**'nde eğitim görüyorum. Kodlamaya küçük yaşlarda blok tabanlı platformlarda başladım, 2020 yılında ise ilk defa Python ile metin tabanlı programlamaya geçiş yaptım.
 
 Çoğu yazılım dilinin temellerine hakimim; özellikle **C++** ve **Python** dillerini tercih ediyorum. Aynı zamanda **Arduino** ve **Raspberry Pi** üzerinde fiziksel projeler geliştiriyorum. Aktif olarak Arch Linux kullanıyorum.
 
@@ -23,7 +23,7 @@ Ben 2010 doğumlu bir geliştiriciyim ve aktif olarak **24 Kasım Anadolu Lisesi
   `C++`, `Python`, `Java`, `JavaScript`, `C#`, `HTML/CSS`
 
 - **Teknolojiler ve Kütüphaneler:**  
-  `YOLO`, `dlib`, `NumPy`, `pandas`, `matplotlib`, `SDL2`, `Unity`, `Discord.py`, `QT`, `Java Swing`, `Selenium`
+  `YOLO`, `dlib`, `NumPy`, `pandas`, `matplotlib`, `SDL2`, `Unity`, `Discord.py`, `QT`, `Java Swing`, `Selenium`, `MongoDB`
 
 - **Platformlar ve Donanım:**  
   `Arch Linux`, `Arduino`, `Raspberry Pi`, `Windows`
