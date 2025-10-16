@@ -29,7 +29,7 @@
   `Arch Linux`, `Arduino`, `Raspberry Pi`, `Windows`
 
 - **Araçlar ve Sistemler:**  
-  `Makefile`, `VSCode`, `Raspberry Pi OS`, `Serial Communication`, `CLI tools`
+  `Makefile`, `VSCode`, `Raspberry Pi OS`, `Serial Communication`, `CLI tools`, `Jupyter Notebook`
   
 ---
 
