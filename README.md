@@ -23,7 +23,7 @@
   `C++`, `Python`, `Java`, `JavaScript`, `C#`, `HTML/CSS`
 
 - **Teknolojiler ve Kütüphaneler:**  
-  `YOLO`, `dlib`, `NumPy`, `pandas`, `matplotlib`, `SDL2`, `Unity`, `Discord.py`, `QT`, `Java Swing`, `Selenium`, `MongoDB`, `Kivy`
+  `YOLO`, `dlib`, `NumPy`, `pandas`, `matplotlib`, `SDL2`, `Unity`, `Discord.py`, `QT`, `Java Swing`, `Selenium`, `MongoDB`, `Kivy`, `Pytorch`, `sklearn`, `matplotlib`
 
 - **Platformlar ve Donanım:**  
   `Arch Linux`, `Arduino`, `Raspberry Pi`, `Windows`
