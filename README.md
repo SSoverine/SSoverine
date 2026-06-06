@@ -33,6 +33,3 @@
   
 ---
 
-## 📫 Bana Ulaş
-
-📷 [Instagram](https://instagram.com/soverine.cpp)  
