@@ -20,10 +20,10 @@
 ## 🛠️ Kullandığım ve Deneyim Sahibi Olduğum Teknolojiler
 
 - **Programlama Dilleri:**  
-  `C++`, `Python`, `Java`, `JavaScript`, `C#`, `HTML/CSS`
+  `C++`, `Python`, `Java`
 
 - **Teknolojiler ve Kütüphaneler:**  
-  `YOLO`, `dlib`, `NumPy`, `pandas`, `matplotlib`, `SDL2`, `Unity`, `Discord.py`, `QT`, `Java Swing`, `Selenium`, `MongoDB`, `Kivy`, `Pytorch`, `sklearn`, `matplotlib`
+  `YOLO`, `dlib`, `NumPy`, `pandas`, `matplotlib`, `SDL`, `Discord.py`, `QT`, `Java Swing`, `Selenium`, `MongoDB`, `Kivy`, `Pytorch`, `Tensorflow`, `sklearn`, `matplotlib`
 
 - **Platformlar ve Donanım:**  
   `Arch Linux`, `Arduino`, `Raspberry Pi`, `Windows`
